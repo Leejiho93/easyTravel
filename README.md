@@ -12,15 +12,15 @@
 
 - **이미지 번역**
 
-  vision api로 이미지의 텍스트를 추출한 후 translate api로 번역
+  vision api로 이미지의 텍스트를 추출한 후 translate api로 번역 <br/>
   ![이미지번역.gif](https://user-images.githubusercontent.com/63515344/102209787-a3817c00-3f14-11eb-9f02-bd30cf3962ec.gif)
 
 - **음성 번역**
 
-  react-native-android-voice로 보이스를 텍스트로 전환 후 translate api로 번역
+  react-native-android-voice로 보이스를 텍스트로 전환 후 translate api로 번역<br/>
   ![음성번역 (1).gif](https://user-images.githubusercontent.com/63515344/102211465-fe1bd780-3f16-11eb-9413-62d9d406820e.gif)
 
 - **날씨**
 
-  사용자가 위치한 지역의 날씨를 weather api를 이용해 보여줌
+  사용자가 위치한 지역의 날씨를 weather api를 이용해 보여줌<br/>
   ![날씨.png](https://user-images.githubusercontent.com/63515344/149717735-45673338-bda3-431c-b64b-acd144ac93f7.png)
