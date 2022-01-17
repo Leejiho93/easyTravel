@@ -17,7 +17,7 @@
 
 - **음성 번역**
 
-  react-native-android-voice로 소리를 텍스트로 전환 후 translate api로 번역
+  react-native-android-voice로 보이스를 텍스트로 전환 후 translate api로 번역
   ![음성번역 (1).gif](https://user-images.githubusercontent.com/63515344/102211465-fe1bd780-3f16-11eb-9413-62d9d406820e.gif)
 
 - **날씨**
